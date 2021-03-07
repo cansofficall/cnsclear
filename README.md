@@ -1,1 +1,2 @@
-# cnsclear
+# cnsclear                
+file cleanup webcns           
